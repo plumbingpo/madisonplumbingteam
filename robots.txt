@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madisonplumbingteam.com/sitemap.xml
